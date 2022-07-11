@@ -24,5 +24,5 @@ const Home = () => {
 }
 export default Home;
 // coś tam 
-
+//tez coś tam !!!!!
 //https://www.youtube.com/watch?v=XW0t2lk4Ffo&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=32
